@@ -1,0 +1,9 @@
+{
+  "main_url"      : "https://www-nass.nhtsa.dot.gov/nass/cds/CaseForm.aspx?xsl=main.xsl&CaseID=",
+  "case_id"       : "771013696",
+  "path_to_save"  : "/home/mikhail/PycharmProjects/nass_collect/result/",
+  "class":{
+    "title_block"       : "subtitle",
+    "case_info_block"       : "printheader"
+  }
+}

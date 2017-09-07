@@ -1,0 +1,9 @@
+{
+  "main_url"      : "https://www-nass.nhtsa.dot.gov/nass/cds/CaseForm.aspx?xsl=main.xsl&CaseID=",
+  "case_id"       : "771013696",
+  "path_to_save"  : "C:\\Users\\VM82958\\Desktop\\Nass_data\\",
+  "class":{
+    "title_block"       : "subtitle",
+    "case_info_block"       : "printheader"
+  }
+}
